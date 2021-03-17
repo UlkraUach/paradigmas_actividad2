@@ -1,0 +1,17 @@
+#nombre {
+    color:brown;
+    font-size: 2rem;
+}
+
+#mes {
+    font-style: oblique;
+    color:darkblue;
+    font-size: 2rem;
+}
+
+#email {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blue;
+    font-size: 2rem;
+}
+
